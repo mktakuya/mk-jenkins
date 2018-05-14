@@ -1,4 +1,4 @@
-FROM jenkinsci/jenkins:lts
+FROM jenkins/jenkins:lts
 
 MAINTAINER Takuya Mukohira takuya.mk96@gmail.com
 
